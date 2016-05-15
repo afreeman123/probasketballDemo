@@ -1,0 +1,22 @@
+{
+  "name": "probasketballdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afreeman123/probasketballDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afreeman123/probasketballDemo/issues"
+  },
+  "homepage": "https://github.com/afreeman123/probasketballDemo#readme",
+  "devDependencies": {
+    "request": "^2.72.0"
+  }
+}
